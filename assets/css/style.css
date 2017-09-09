@@ -1,0 +1,61 @@
+body, html {
+    background: url("http://cv.lnwfile.com/_/cv/_raw/g1/sz/2n.jpg");
+    color: goldenrod;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+button {
+    width: 150px;
+    background-color: goldenrod;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: auto 0;
+}
+
+#start, #game, #result {
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 100px;
+    color: goldenrod;
+    padding: 0;
+    margin: auto 0;
+    text-align: center;
+}
+
+
+h2 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+    font-size: 60px;
+    color: goldenrod;
+}
+
+h3 {
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    padding: 0;
+    margin: 0;
+    font-size: 30px;
+    color: goldenrod;
+}
+
+
+p {
+    margin-bottom: 20px;
+}
+
+
+
+
